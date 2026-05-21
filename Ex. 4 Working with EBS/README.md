@@ -2,10 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
-
+* **Name**: R Abinav kumar
+* **Register Number**: 212224210001
+  
 ---
 
 ## Objective
